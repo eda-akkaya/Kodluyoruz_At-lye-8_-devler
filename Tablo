@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+    <style>
+        table{
+            border:5px solid black; 
+            border-collapse:collapse;
+            text-align: center;
+            font-size: x-large;
+            margin-left:auto;  
+            margin-right:auto;
+        }
+        th,td{
+            border: 2px solid black;
+            background-color:rgb(243, 189, 147);
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final-Four Teams</title>
+    
+</head>
+<body>
+    <h1 style="text-align: center;";
+    >EuroLeague Final-Four Teams of Last 5 Seasons</h1>
+    
+    <table>   
+        <!-- tablo oluşturulurve veriler girilir. th*6+tr*5>td*5 -->      
+        <tr > 
+            <th style ="background-color: rgb(254, 148, 55);">Season</th>
+            <th style ="background-color: rgb(254, 148, 55);">Champion</th>
+            <th style ="background-color: rgb(254, 148, 55);">Second place</th>
+            <th style ="background-color: rgb(254, 148, 55);">Third place</th>
+            <th style ="background-color: rgb(254, 148, 55);">Fourth place</th>
+        </th>
+        <tr> 
+            <td>21-22</td>
+            <td>Anadolu Efes</td>
+            <td>Real Madrid</td>
+            <td>FC Barcelona</td>
+            <td>Olympiacos</td>
+        </tr>
+        <tr> 
+            <td>20-21</td>
+            <td>Anadolu Efes</td>
+            <td>FC Barcelona</td>
+            <td>AX Armani Exchange Milan</td>
+            <td>CSKA Moscow</td>
+        </tr>
+        <tr> 
+            <td>19-20</td>
+            <td>*</td>
+            <td>*</td>
+            <td>*</td>
+            <td>*</td>
+        </tr>
+        <tr>
+            <td>18-19</td>
+            <td>CSKA Moscow</td>
+            <td>Anadolu Efes</td>
+            <td>Real Madrid</td>
+            <td>Fenerbahçe Beko</td>
+        </tr>
+        <tr> 
+            <td>17-18</td>
+            <td>Real Madrid</td>
+            <td>Fenerbahçe Doğuş</td>
+            <td>Žalgiris</td>
+            <td>CSKA Moscow</td>
+        </tr>
+        <tr> 
+            <td>16-17</td>
+            <td>Fenerbahçe</td>
+            <td>Olympiacos</td>
+            <td>CSKA Moscow</td>
+            <td>Real Madrid</td>       
+        </tr>
+     
+    </table>
+    <!-- Dipnot açıklaması-->
+    <p style="text-align: center;
+              font-size: large;">*Cancelled due to the COVID-19 pandemic in Europe</p>
+    
+    <p style="font-style: italic;
+    font-size: xx-large;
+    font-weight: 700;"> #F4GLORY</p>
+    <!-- Euroleague logosu ekleme-->
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgvs1Kl58zeceBYbjG161cUl_Nc1J4U75tPg&usqp=CAU" 
+    alt="Euroleague Logo";>
+    <footer style="text-align: right; font-size: large;"> prepared by Eda Akkaya</footer> 
+</body>
+</html>
+    
