@@ -1,1 +1,2 @@
-# Kodluyoruz_At-lye-8_-devler
+# Kodluyoruz_Atolye-8_Odevler
+Kodluyoruz Front-End Atolyesindeki tablo yapma ödevi.
