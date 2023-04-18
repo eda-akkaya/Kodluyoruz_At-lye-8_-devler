@@ -5,7 +5,8 @@ Tablo.html --> Kodluyoruz Front-End Atolyesi tablo yapma ödevi.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 figma_ilk_proje_index.html  ve  figma_ilk_proje_style.css  --> Kodluyoruz Front-End Atolyesi Figma'dan proje yapma ödevi.
-![ilk_proje_index html][_C__Users_pc_Desktop_ilk_proje_index html (32)](https://user-images.githubusercontent.com/113829300/232642570-463156a5-a449-4424-9c07-123cfff2060b.png)
+![_C__Users_pc_Desktop_ilk_proje_index html (32)](https://user-images.githubusercontent.com/113829300/232642664-8fa34d00-d321-4779-8156-abb105d167a2.png)
+
 
 
 Responsive yapının gösterimi!
